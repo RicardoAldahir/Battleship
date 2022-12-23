@@ -1,4 +1,4 @@
-# Juego de Batalla naval
+# Juego de Batalla Naval
 
 El proyecto esta realizado con 
 - JavaScript
